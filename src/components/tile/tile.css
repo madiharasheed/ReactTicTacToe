@@ -1,6 +1,6 @@
 .tile {
-    background: #fff;
-    border: 1px solid #999;
+    background: rgb(240, 224, 137);
+    border: 1px solid rgb(115, 157, 247);
     float: left;
     font-size: 24px;
     font-weight: bold;
